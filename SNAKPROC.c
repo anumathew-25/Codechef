@@ -1,3 +1,8 @@
+*********************************************
+Author:Anu Mathew
+Problem:SNAKPROC
+Date:16/5/2022
+********************************************
 #include <stdio.h>
 	int N;
 void solve(){
