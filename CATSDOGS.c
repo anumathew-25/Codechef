@@ -1,3 +1,8 @@
+*******************************************
+Author:Anu Mathew
+Problem:CATSDOGS
+Date:16/5/2022
+********************************************
 #include <stdio.h>
 void solve(){
     int cats,dogs,legs;
